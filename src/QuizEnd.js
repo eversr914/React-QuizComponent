@@ -10,3 +10,5 @@ class QuizEnd extends Component {
     )
   }
 }
+
+export default QuizEnd
